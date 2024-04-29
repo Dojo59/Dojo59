@@ -48,5 +48,5 @@ hobbies: ["Gaming", "Cinema", "Chess", "Music"]
   
 </p> 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="50" height="50"/>
 </p>
