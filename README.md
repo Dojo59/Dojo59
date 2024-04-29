@@ -21,9 +21,13 @@
 ```yaml
 name: Dojo59
 located_in: 59 Nord, France
-Lan
+Languages: 
+  - French (Origin)
+  - English 
+  - Spawnish
 
 education:
+  - "Studies in Industrial automation"
   - "Self-Taught Developer"
   - "Self-Taught Game Developer"
   - "Self-Taught Game Designer"
