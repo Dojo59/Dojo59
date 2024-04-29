@@ -36,7 +36,7 @@ currently_learning: ["HTML / CSS / Java-Script" , "Java" , "C++" ]
 current_project: "[Ethernel Studio]"
 current_project: "Smart&SimpleAPI"
 2024 Goals: ["Create 10+ Projects and learn at least 2-5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Chess", "Music"]
+hobbies: ["DEV.", "Gaming", "Music", "Cinema"]
 
 ``` 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
