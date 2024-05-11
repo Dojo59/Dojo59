@@ -24,7 +24,7 @@ located_in: 59 Nord, France
 Languages: 
   - French (Origin)
   - English 
-  - Spawnish
+  - Spanish
 
 education:
   - "Studies in Industrial automation"
