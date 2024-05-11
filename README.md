@@ -20,7 +20,7 @@
 
 ```yaml
 name: Dojo59
-located_in: 59 Nord, France
+located_in: North, France
 Languages: 
   - French (Origin)
   - English 
