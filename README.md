@@ -19,7 +19,8 @@
 
 
 ```yaml
-name: Dojo59
+name: Vincent
+alias: Dojo59
 located_in: North, France
 Languages: 
   - French (Origin)
