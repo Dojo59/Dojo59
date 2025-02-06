@@ -37,7 +37,7 @@ fields_of_interests:
   - "Web Development",
   - "Game Development",
   
-currently_learning: ["HTML / CSS / Java-Script" , "Java" , "C++" ]
+currently_learning: ["HTML / CSS / Java-Script" , "Java" , "C++" , "MySQL" ]
 current_project: "[Ethernel Studio]"
 current_project: "Smart&SimpleAPI"
 2024 Goals: ["Create more than 10 projects with my team and learn at least Python and C#"].
