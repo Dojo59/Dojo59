@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="http://discordapp.com/users/917060389307580497">
-    <img height="50" src="https://raw.githubusercontent.com/OraKerix/OraKerix/main/Discord.jfif"/>
+    <img height="25" src="https://raw.githubusercontent.com/OraKerix/OraKerix/main/Discord.jfif"/>
   </a>
   <a href=https://www.instagram.com/dojo59_/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="25" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p>
 
