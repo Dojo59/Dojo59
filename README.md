@@ -18,9 +18,9 @@
 
 
 ```yaml
-name: Vincent
+name: Xxxxxxx
 alias: Dojo59
-located_in: North, France
+located_in: France
 Languages: 
   - French (Origin)
   - English 
@@ -45,12 +45,12 @@ hobbies: ["DEV.", "Gaming", "Music", "Cinema"]
 ``` 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="html" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://camo.githubusercontent.com/67af3f7e88aa4d5c4d525689311143b62f0750eaff5832a9505df20312e8eed6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="c++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt="html" width="45" height="45"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" alt="css" width="45" height="55"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="45" height="45"/>
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-64.png" alt="mysql" width="65" height="65"/>
 </p> 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="git" width="45" height="45"/> 
