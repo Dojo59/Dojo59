@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="http://discordapp.com/users/917060389307580497">
+  <a href="http://discordapp.com/users/540903467691147266">
     <img height="50" src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
   </a>
   <a href="https://www.instagram.com/dojo59_/">
