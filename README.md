@@ -8,13 +8,12 @@
 
 <p align="center">
   <a href="http://discordapp.com/users/917060389307580497">
-    <img height="50" src="https://raw.githubusercontent.com/OraKerix/OraKerix/main/Discord.jfif"/>
+    <img height="50" src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
   </a>
-  <a href=https://www.instagram.com/dojo59_/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <a href="https://www.instagram.com/dojo59_/">
+    <img height="50" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
   </a>
 </p>
-
 
 
 
@@ -57,6 +56,4 @@ hobbies: ["DEV.", "Gaming", "Music", "Cinema"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="git" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="git" width="45" height="45" />
-
- 
 </p>
