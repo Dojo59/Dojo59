@@ -39,7 +39,7 @@ fields_of_interests:
 currently_learning: ["HTML / CSS / Java-Script" , "Java" , "C++" , "MySQL" ]
 current_project: "[Ethernel Studio]"
 current_project: "Smart&SimpleAPI"
-2025 Goals: ["Create more than 4 projects with my team and learn at least Python and C#"].
+2026 Goals: ["Finish all proct of S&SAPI and learn at least Python and C#"].
 hobbies: ["DEV.", "Gaming", "Music", "Cinema"]
 
 ``` 
